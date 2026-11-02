@@ -225,3 +225,12 @@ A futuristic interaction system powered by hand tracking and real-time gesture r
 ## Project Demonstration
 
 ![Hastha Niyanthra - Hand Detection](screenshots/hand_detection.png)
+
+## Gesture Controls
+
+| Hand Gesture | Action |
+|---|---|
+| Four fingers | Next slide |
+| Three fingers | Previous slide |
+| Two fingers | Start slideshow |
+| Closed fist | Exit slideshow |
