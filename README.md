@@ -224,4 +224,4 @@ Use this project during:
 A futuristic interaction system powered by hand tracking and real-time gesture recognition.
 ## Project Demonstration
 
-![Hastha Niyanthra - Hand Detection](screenshots/hand-detection.png)
+![Hastha Niyanthra - Hand Detection](screenshots/hand_detection.png)
