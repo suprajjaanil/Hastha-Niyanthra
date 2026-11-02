@@ -234,3 +234,11 @@ A futuristic interaction system powered by hand tracking and real-time gesture r
 | Three fingers | Previous slide |
 | Two fingers | Start slideshow |
 | Closed fist | Exit slideshow |
+
+## How It Works
+
+1. The webcam captures live video.
+2. MediaPipe detects and tracks hand landmarks.
+3. The system identifies the number of raised fingers.
+4. Each recognized gesture is mapped to a keyboard action.
+5. PyAutoGUI executes the action to control presentations or supported video playback.
