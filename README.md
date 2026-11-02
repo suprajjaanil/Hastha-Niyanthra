@@ -242,3 +242,9 @@ A futuristic interaction system powered by hand tracking and real-time gesture r
 3. The system identifies the number of raised fingers.
 4. Each recognized gesture is mapped to a keyboard action.
 5. PyAutoGUI executes the action to control presentations or supported video playback.
+
+## Acknowledgements
+
+- Developed as part of a Python and Computer Vision bootcamp.
+- Built using Python, OpenCV, MediaPipe and PyAutoGUI.
+- Thanks to the bootcamp mentors for their guidance and support.
